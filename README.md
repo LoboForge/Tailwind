@@ -156,14 +156,6 @@ The flight model is **arcade-style** — responsive and fun, not a simulator. Pl
 
 ---
 
-## The Ask
-
-This project has a clear creative vision, a defined progression arc, and mechanics that are technically achievable without a massive team. The foundation is a Unity open world framework with flight mechanics, an economy system, and mission structure — all well-documented territory.
-
-**Looking for a partner who brings:**
-- Additional engineering depth (open world systems, economy, AI)
-- Or art/environment capability (LATAM terrain, aircraft, character assets)
-- Or both
 
 The scope is ambitious but deliberately staged. Ship Mexico. Expand from there.
 
